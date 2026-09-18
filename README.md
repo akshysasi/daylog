@@ -39,3 +39,48 @@ The project will be developed gradually, with features being added one at a time
 ☁️ Backup and synchronization
 
 🤖 AI-powered insights (future idea)
+🛠️ Tech Stack
+
+The app will be developed using:
+
+Kotlin
+
+Jetpack Compose
+
+Android SDK
+
+Gradle
+
+Room Database (planned)
+
+Git & GitHub
+
+🚧 Project Status
+
+Currently in development.
+
+This is a personal passion project and will be built incrementally. The initial versions will focus on creating a simple and reliable foundation before adding more advanced features.
+
+📌 Development Approach
+
+Daylog will be developed feature by feature rather than trying to build everything at once.
+
+Foundation
+    ↓
+Journal
+    ↓
+Routine Tracking
+    ↓
+Local Database
+    ↓
+History & Calendar
+    ↓
+Statistics & Streaks
+    ↓
+Reminders
+    ↓
+Advanced Features
+
+📄 License
+
+License to be decided.
